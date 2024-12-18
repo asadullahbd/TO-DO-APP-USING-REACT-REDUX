@@ -1,4 +1,5 @@
 
+DEMO: https://to-do-app-using-react-redux.vercel.app/
 # To-Do App
 
 A simple and efficient To-Do app built with **React**, styled using **Bootstrap**, and enhanced with state management using **Redux Toolkit**. This app also leverages **SweetAlert2** for interactive and user-friendly alerts.
@@ -39,7 +40,7 @@ To get started, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/to-do.git
+   git clone https://github.com/asadullahbd/TO-DO-APP-USING-REACT-REDUX
    cd to-do
    ```
 
